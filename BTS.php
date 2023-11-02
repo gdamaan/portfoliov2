@@ -20,7 +20,7 @@
         <div class="inner">
 
             <!-- Logo -->
-            <a href="index.php" class="logo">
+            <a href="index.html" class="logo">
                 <span class="fa fa-pencil"></span> <span class="title">Accueil</span>
             </a>
 
@@ -38,7 +38,7 @@
     <nav id="menu">
         <h2>Menu</h2>
         <ul>
-            <li><a href="index.php">Accueil</a></li>
+            <li><a href="index.html">Accueil</a></li>
 
             <li><a href="veille.php">Veille</a></li>
 
