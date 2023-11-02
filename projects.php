@@ -38,9 +38,9 @@
 					<ul>
 						<li><a href="index.html">Accueil</a></li>
 
-						<li><a href="veille.php">Veille</a></li>
+						<li><a href="veille.html">Veille</a></li>
 
-						<li><a href="BTS.php">BTS</a></li>
+						<li><a href="BTS.html">BTS</a></li>
 
 
 					</ul>
